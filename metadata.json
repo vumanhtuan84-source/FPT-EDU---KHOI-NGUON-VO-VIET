@@ -1,0 +1,6 @@
+{
+  "name": "AuraCheck — Check-in Khuôn Mặt & Điểm Chạm Sự Kiện",
+  "description": "Hệ thống nhận diện khuôn mặt AI thông minh dành cho sự kiện và doanh nghiệp, hiển thị màn hình chào mừng cá nhân hóa và đồng bộ thời gian Vào/Ra trực tiếp lên Google Sheets.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
